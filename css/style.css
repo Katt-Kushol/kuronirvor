@@ -208,7 +208,7 @@ ul#promo-reason li{
 article#sponsor-main{
   margin-top: 10px;
   float: left;
-  width: 30%;
+  width: 40%;
 }
 
 article#type{
@@ -224,7 +224,7 @@ article#type{
 #sponsors .sponsor{
   float: left;
   text-align: center;
-  width: 80%;
+  width: 45%;
   padding: 5px;
 }
 
@@ -237,7 +237,7 @@ article#type{
 /*sidebar*/
 aside#googlemap{
   float: right;
-  width: 65%;
+  width: 55%;
   margin-top: 5px;
 }
 
@@ -333,7 +333,8 @@ footer{
   #boxes .box,
   #customers .customer,
   article#main-col,
-  aside#sidebar{
+  aside#sidebar,
+  #sponsors .sponsor{
     float:none;
     text-align:center;
     width:100%;
