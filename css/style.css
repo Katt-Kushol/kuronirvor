@@ -204,12 +204,50 @@ ul#promo-reason li{
   background: #e6e6e6;
 }
 
-/*types*/
-table {
-  width: 100%; /* Required for auto margins to work effectively */
-  margin-left: auto;
-  margin-right: auto;
+/* sponsor and maps */
+article#sponsor-main{
+  margin-top: 10px;
+  float: left;
+  width: 30%;
 }
+
+article#type{
+  margin-top: 10px;
+  width: 55%;
+  float: left;
+}
+
+#sponsors{
+  margin-top: 10px;
+}
+
+#sponsors .sponsor{
+  float: left;
+  text-align: center;
+  width: 80%;
+  padding: 5px;
+}
+
+
+#sponsors .sponsor img{
+  width: 90%;
+  padding: none;
+}
+
+/*sidebar*/
+aside#googlemap{
+  float: right;
+  width: 65%;
+  margin-top: 5px;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    background-color: #e8491d;
+}
+
+/*types*/
 
 #types h1{
   text-align:center;
