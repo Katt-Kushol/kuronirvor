@@ -25,9 +25,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.4535"
-     inkscape:cx="447.62955"
-     inkscape:cy="508.26902"
+     inkscape:zoom="0.64134585"
+     inkscape:cx="282.21902"
+     inkscape:cy="658.77093"
      inkscape:current-layer="svg61" />
   <defs
      id="defs1">
@@ -75,17 +75,6 @@
        id="path2"
        style="fill:#008080" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Tiro Bangla';-inkscape-font-specification:'Tiro Bangla, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.75px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#ffffff;stroke-width:0.37499999;stroke-linejoin:round;stroke-dasharray:none"
-     x="320.4249"
-     y="770.01056"
-     id="text1"><tspan
-       sodipodi:role="line"
-       id="tspan1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Tiro Bangla';-inkscape-font-specification:'Tiro Bangla, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#ffffff;stroke-width:0.37499999;stroke-dasharray:none"
-       x="320.4249"
-       y="770.01056">না হা র  ন গ র</tspan></text>
   <g
      id="g3"
      transform="translate(-8.9999326,13.5)">
@@ -144,7 +133,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Tiro Bangla';-inkscape-font-specification:'Tiro Bangla, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.75px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#ffffff;stroke-width:0.375;stroke-linejoin:round;stroke-dasharray:none"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Tiro Bangla';-inkscape-font-specification:'Tiro Bangla, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.75px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#ffffff;stroke-width:0.375;stroke-linejoin:round;stroke-dasharray:none;opacity:0.5"
      x="320.4249"
      y="770.01056"
      id="text2"><tspan
@@ -153,4 +142,15 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Tiro Bangla';-inkscape-font-specification:'Tiro Bangla, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#ffffff;stroke-width:0.375;stroke-dasharray:none"
        x="320.4249"
        y="770.01056">না হা র</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Tiro Bangla';-inkscape-font-specification:'Tiro Bangla, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.75px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;opacity:0.5;fill:#000000;stroke:#ffffff;stroke-width:0.375;stroke-linejoin:round;stroke-dasharray:none"
+     x="473.97504"
+     y="770.01056"
+     id="text3"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Tiro Bangla';-inkscape-font-specification:'Tiro Bangla, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#ffffff;stroke-width:0.375;stroke-dasharray:none"
+       x="473.97504"
+       y="770.01056">ন গ র</tspan></text>
 </svg>
