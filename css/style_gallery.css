@@ -32,6 +32,17 @@ body {
   margin-top: 8px;
   vertical-align: middle;
   width: 100%;
+  max-width: 100%;
+  height: auto;
+  cursor: zoom-in;
+  transition: transform 0.3s ease;
+}
+
+.column img.zoomed {
+  transform: scale(1.5);
+  cursor: zoom-out;
+  position: relative;
+  z-index: 10; /* Ensures the zoomed image sits above other content */
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
