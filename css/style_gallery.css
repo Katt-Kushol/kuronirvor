@@ -39,7 +39,7 @@ body {
 }
 
 .column img.zoomed {
-  transform: scale(1.5);
+  transform: scale(1.75);
   cursor: zoom-out;
   position: relative;
   z-index: 10; /* Ensures the zoomed image sits above other content */
