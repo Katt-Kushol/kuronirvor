@@ -101,7 +101,7 @@ header a:hover{
 
 /* showcase */
 #showcase{
-  min-height: 250px;
+  min-height: 200px;
   background:url('../img/showcase.png') no-repeat;
   text-align: center;
   color: #ffffff;
@@ -351,6 +351,10 @@ footer{
 
   header{
     padding-bottom: 20px;
+  }
+
+  #showcase{
+    min-height: 100px;
   }
 
   #showcase h1{
